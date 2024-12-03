@@ -1,24 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-My name is Joe Phillips  
-====================================================================================================================================
+# Hi there! 👋 I'm Joe Phillips
 
-Mathematics Graduate  
---------------------
+I’m a **beginner in the data field** with a passion for learning and exploring the world of data analysis and visualization. My journey is all about diving into tools and techniques to uncover meaningful insights from data.
 
-* 🌍  I'm based in Wolverhampton  
-* ✉️  You can contact me at [joephillips915@gmail.com](mailto:joephillips915@gmail.com)  
-* 🧠  I'm learning Data Analysis  
+## 💻 Tools and Technologies
 
----
+- **Data Visualization**:  
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+
+- **Data Analysis**:  
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+- **Database Management**:  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+
+- **Programming**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+## 🌱 What I'm Working On
+- Building hands-on projects to enhance my skills in Python, SQL, and data visualization tools.  
+- Exploring machine learning and data science concepts.  
+- Developing my portfolio to showcase real-world applications of data analysis.  
 
 ## 🛠️ Skills
+- **Data Cleaning & Transformation**: Proficient in preparing raw datasets for analysis.  
+- **Visualization & Storytelling**: Creating dashboards and visual reports that convey actionable insights.  
+- **SQL Queries**: Writing queries to extract, manipulate, and analyze data from relational databases.  
+- **Python Scripting**: Utilizing libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization.  
 
-Here are the tools and technologies I'm proficient in:
+## 📚 Learning Goals
+- Mastering advanced analytics and predictive modeling techniques.  
+- Getting certified in Power BI and Tableau.  
+- Building end-to-end data pipelines.  
 
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Microsoft_Excel_2013.svg)  
-![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Tableau_2020_logo.svg)  
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/2/23/Power_BI_Logo.svg)  
-![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_Logo.svg)  
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+## 🤝 Let's Connect
+I'm always open to collaboration, feedback, and learning opportunities!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joe-phillips-59649621b/)  
+- 🌐 [Portfolio](#)  
 
 
