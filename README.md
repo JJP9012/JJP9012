@@ -5,17 +5,17 @@ I’m a **beginner in the data field** with a passion for learning and exploring
 ## 💻 Tools and Technologies
 
 - **Data Visualization**:  
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)(#)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)(#)
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
 - **Data Analysis**:  
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)(#)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 - **Database Management**:  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)(#) 
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
 
 - **Programming**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)(#)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ## 🌱 What I'm Working On
 - Building hands-on projects to enhance my skills in Python, SQL, and data visualization tools.  
@@ -37,5 +37,4 @@ I’m a **beginner in the data field** with a passion for learning and exploring
 I'm always open to collaboration, feedback, and learning opportunities!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joe-phillips-59649621b/)  
 - 🌐 [Portfolio](#)  
-
 
