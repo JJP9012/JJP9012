@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Joe Phillips
+# Hi there! 👋 I'm Joe
 
 I’m a **beginner in the data field** with a passion for learning and exploring the world of data analysis and visualization. My journey is all about diving into tools and techniques to uncover meaningful insights from data.
 
