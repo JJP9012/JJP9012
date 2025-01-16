@@ -36,5 +36,5 @@ I’m a **beginner in the data field** with a passion for learning and exploring
 ## 🤝 Let's Connect
 I'm always open to collaboration, feedback, and learning opportunities!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joe-phillips-59649621b/)  
-- 🌐 [Portfolio](#)  
+- 🌐 [Portfolio](https://sites.google.com/d/1rC37veuX1_oj6lBfU1YH7M7-cpSo7lIb/p/15rBf2dPYcqvHCUwVthF7YSRB1QuXKU8c/edit)  
 
